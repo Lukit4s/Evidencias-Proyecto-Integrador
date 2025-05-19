@@ -15,4 +15,6 @@ Durante esta actividad, llevé a cabo paso a paso la creación de un nuevo proye
    ```bash
    npm run dev
 
-5. Abre tu navegador e ingresa a la siguiente URL:
+5. Abre tu navegador e ingresa a la URL proporcionada en la terminal:
+   Ejemplo: (http://localhost:5176)(http://localhost:5176)(http://localhost:5175) etc.
+   
