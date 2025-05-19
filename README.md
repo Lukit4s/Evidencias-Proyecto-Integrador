@@ -8,12 +8,10 @@ Durante esta actividad, llevé a cabo paso a paso la creación de un nuevo proye
 
 1. Abre la terminal en la raíz del proyecto.
 2. Instala las dependencias:
-
-   ```bash
+    ```bash
    npm install
+   
 3.Inicia el servidor de desarrollo:
    ```bash
-      npm run dev
-
-
-
+   npm run dev
+4.Abre tu navegador e ingresa a la siguiente URL:
