@@ -11,4 +11,6 @@ Durante esta actividad, llevé a cabo paso a paso la creación de un nuevo proye
 
    ```bash
    npm install
+   npm run dev
+
 
