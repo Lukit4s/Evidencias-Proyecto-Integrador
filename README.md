@@ -1,9 +1,14 @@
-# Evidencias-Proyecto-Integrador
+## 🚀 Creación del Proyecto
 
-Durante esta actividad, realice paso a paso la creacion de un nuevo proyecto con Vite utilizando React como plantilla, instale y se configuro Tailwind CSS siguiendo la documentación oficial, integrándolo correctamente con Vite. 
+Durante esta actividad, llevé a cabo paso a paso la creación de un nuevo proyecto con **Vite** utilizando **React** como plantilla. Además, instalé y configuré **Tailwind CSS** siguiendo la documentación oficial, asegurando su correcta integración con Vite.
 
-**Instrucciones para ejecutar el proyecto** 
--Abrir la terminal 
--Instalar las dependencias: npm install 
--Iniciar el proyecto en modo desarrollo: npm run dev 
--abrir el navegador e ingresar a la url de la terminal: http://localhost:5176
+---
+
+## 🛠️ Instrucciones para Ejecutar el Proyecto
+
+1. Abre la terminal en la raíz del proyecto.
+2. Instala las dependencias:
+
+   ```bash
+   npm install
+
