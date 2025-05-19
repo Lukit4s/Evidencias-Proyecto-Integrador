@@ -11,6 +11,9 @@ Durante esta actividad, llevé a cabo paso a paso la creación de un nuevo proye
 
    ```bash
    npm install
-   npm run dev
+3.Inicia el servidor de desarrollo:
+   ```bash
+      npm run dev
+
 
 
