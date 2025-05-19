@@ -1,17 +1,23 @@
 ## 🚀 Creación del Proyecto
 
-Durante estas actividades, llevé a cabo paso a paso la creación de un nuevo proyecto con **Vite** utilizando **React** como plantilla. Además, instalé y configuré **Tailwind CSS** siguiendo la documentación oficial, asegurando su correcta integración con Vite.
+Durante estas actividades, realicé paso a paso la creación de un nuevo proyecto con **Vite**, utilizando **React** como plantilla. Además, instalé y configuré **Tailwind CSS** siguiendo la documentación oficial, logrando una integración exitosa con Vite.
 
 ---
 
 ## 🛠️ Instrucciones para Ejecutar el Proyecto
 
-1. Abre la terminal en la raíz del proyecto.
-2. Instala las dependencias:
+1. Abre una terminal en **Visual Studio Code**.
+2. Navega hasta la carpeta del proyecto utilizando los siguientes comandos:
+
+   ```bash
+   cd evidencia1
+   cd "Primer trabajo"
+
+3. Instala las dependencias:
     ```bash
    npm install
     
-3. Inicia el servidor de desarrollo:
+4. Inicia el servidor de desarrollo:
    ```bash
    npm run dev
 
