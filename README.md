@@ -1,6 +1,6 @@
 ## 🚀 Creación del Proyecto
 
-Durante esta actividad, llevé a cabo paso a paso la creación de un nuevo proyecto con **Vite** utilizando **React** como plantilla. Además, instalé y configuré **Tailwind CSS** siguiendo la documentación oficial, asegurando su correcta integración con Vite.
+Durante estas actividades, llevé a cabo paso a paso la creación de un nuevo proyecto con **Vite** utilizando **React** como plantilla. Además, instalé y configuré **Tailwind CSS** siguiendo la documentación oficial, asegurando su correcta integración con Vite.
 
 ---
 
