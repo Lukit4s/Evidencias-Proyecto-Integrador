@@ -22,6 +22,7 @@ Durante estas actividades, realicé paso a paso la creación de un nuevo proyect
    npm run dev
 
 5. Abre tu navegador e ingresa a la URL proporcionada en la terminal:
-   Ejemplo: (localhost:5176),(localhost:5176),(localhost:5175), etc. Ya que la direccion puede variar
+   Ejemplo: (localhost:5176,localhost:5176) etc. Ya que la direccion puede variar
    
-   
+  
+
