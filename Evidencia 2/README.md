@@ -2,7 +2,7 @@
 
 ## Descripción del proyecto
 
-Esta aplicación en React obtiene una lista de productos desde una API utilizando Axios. Permite buscar productos por nombre, muestra una lista filtrada en pantalla y calcula varias estadísticas basadas en los productos filtrados. Además, el código está dividido en componentes reutilizables y presenta un diseño simple.
+Esta pequeño proyecto obtiene una lista de productos desde una API utilizando Axios. Permite buscar productos por nombre, muestra una lista filtrada en pantalla y calcula varias estadísticas basadas en los productos filtrados. Además, el código está dividido en componentes reutilizables y presenta un diseño simple.
 
 ---
 
