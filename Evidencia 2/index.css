@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 1rem;
+  background-color: #f9f9f9;
+}
+
+input {
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+  width: 300px;
+}
+
+button {
+  margin: 1rem 0;
+  padding: 0.5rem 1rem;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  background: #fff;
+  padding: 1rem;
+  margin-bottom: 0.5rem;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+div {
+  margin-top: 1rem;
+  background: #e0e0e0;
+  padding: 1rem;
+  border-radius: 5px;
+}
